@@ -59,14 +59,14 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>Hola, mi nombre es</h1>;
   const two = <h2 className="big-heading">Julio Honorio.</h2>;
   const three = <h3 className="big-heading">Construyo cosas para la web.</h3>;
   const four = (
     <>
       <p>
-      Soy estudiante de ingeniería de software, especializado en construir (y ocasionalmente diseñar) excepcionales
-        experiencias digitales. Actualmente, estoy enfocado en construir productos asequibles y centrados en los requerimentos de los clientes en {' '}
+      Soy estudiante de ingeniería de software, especializado en construir (y ocasionalmente diseñar) excepcionales experiencias digitales. 
+      Actualmente, estoy enfocado en construir productos asequibles y centrados en los requerimentos de los clientes en {' '}
         <a href="" target="_blank" rel="noreferrer">
           JulleSociety
         </a>
