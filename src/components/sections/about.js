@@ -125,43 +125,30 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript', 'Phyton (Basic)', 'HTML', 'CSS', 'WordPress', 'Gatsby', 'Git'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">Sobre mí</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              ¡Hola! Mi nombre es Julio y disfruto creando cosas que se ven en Internet. Mi
+              interés en el desarrollo web comenzó en 2020 cuando decidí intentar clonar un repositorio
+              de Github para modificarlo. — ¡Resulta que copiar un botón de una página conocida y personalizarla me enseñó mucho
+              sobre HTML &amp; CSS!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+            Avance rápido hasta hoy, y tuve el privilegio de trabajar{' '}
+              <a href="">en un estudio de desarrolladores web dirigido por estudiantes</a>,{' '}
+              Mi enfoque principal en estos días es crear productos asequibles y experiencias digitales 
+              en <a href="">JulleSociety</a> para una variedad de clientes.
             </p>
 
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Aquí hay algunas Lenguajes, Frameworks y Librerías con las que he estado trabajando recientemente:</p>
           </div>
 
           <ul className="skills-list">
