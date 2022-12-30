@@ -1,12 +1,12 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2022-01-09'
+title: 'Estudiante'
+company: 'Desarrollo Web'
+location: 'Lima, PE'
+range: 'Octubre - Enero 2022'
+url: 'https://drive.google.com/file/d/1qW9Q23Rg1fbjDw9jubPWXrt0WcuzYMO6/view'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Lenguaje HTML y CSS, añadiendo posicionamiento de SEO básico en el proceso
+- Temas aprendidos con el preprocesador SASS y con el Framework Bootstrap
+- Implementación de controladores de versiones en Git y GitHub

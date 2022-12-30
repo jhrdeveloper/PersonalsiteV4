@@ -1,12 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-08-16'
+title: 'Estudiante'
+company: 'Ingeniería de Software'
+location: 'Lima, PE'
+range: 'Agosto 2022 - Presente'
+url: 'https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-software'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Actualmente cursando el Segundo ciclo de la carrera
+- Cursando Principios de Algoritmos e Introducción a las Tecnologías de la Información
+- Conocimientos básicos e introductorios de la carrera debido a que se está cursando el segundo ciclo, aunque se tiene conocimientos previos
