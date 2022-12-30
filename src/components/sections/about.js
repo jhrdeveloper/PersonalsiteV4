@@ -142,7 +142,8 @@ const About = () => {
             </p>
 
             <p>
-              Avance rápido hasta hoy, y tuve el privilegio de trabajar en un {' '} <a href="">estudio de desarrolladores web</a> dirigido por estudiantes,{' '}
+            Avance rápido hasta hoy, y tuve el privilegio de trabajar{' '}
+              <a href="">en un estudio de desarrolladores web dirigido por estudiantes</a>,{' '}
               Mi enfoque principal en estos días es crear productos asequibles y experiencias digitales 
               en <a href="">JulleSociety</a> para una variedad de clientes.
             </p>
