@@ -75,9 +75,11 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a 
-      className="email-link" 
-      href={`mailto:${email}`}>
+    <a
+      className="email-link"
+      href=""
+      target="_blank"
+      rel="noreferrer">
       ¡Contáctame!
     </a>
   );
