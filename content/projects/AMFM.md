@@ -1,14 +1,15 @@
 ---
-date: '2017-11-01'
-title: 'AMFM'
-github: ''
-external: ''
+date: '2021-11-19'
+title: 'Card Section'
+github: 'https://github.com/jhrdeveloper/CardsectionV3'
+external: 'https://jhrdeveloper.github.io/CardsectionV3/'
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - CSS
+  - HTML
+  - JavaScript
+  - Styles Components
+company: ''
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+Card diseñado para poder implementarlo en diferentes páginas, esto puede ser a gusto de las personas que quieran utilizarlo
