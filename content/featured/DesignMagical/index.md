@@ -13,4 +13,4 @@ tech:
 ---
 
 [Design Magical](https://jhrdeveloper.github.io/Design-Magical/), tiene como enfoque dar los mejores trabajos personalizados a cada cliente y aún precio asequible.
-Esta página está correctamente posicionado [SEO] y bien escructurado con la metodología [BEM] 
+Esta página está correctamente posicionado SEO y bien escructurado con la metodología BEM
