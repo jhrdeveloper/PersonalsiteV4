@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Julio Honorio, estudiante de ingeniería de software, especializado en construir (y ocasionalmente diseñar) experiencias digitales.',
     siteUrl: 'https://juliodeveloper.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: 'static/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@jhrdeveloper',
   },
   plugins: [
