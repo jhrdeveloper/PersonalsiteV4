@@ -78,7 +78,7 @@ const Hero = () => {
     <a
       className="email-link"
       href="/#contact"
-      target="_blank"
+      target=""
       rel="noreferrer">
       ¡Contáctame!
     </a>
