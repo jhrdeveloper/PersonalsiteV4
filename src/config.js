@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/juliodeveloper',
+      url: 'https://twitter.com/jhrdeveloper',
     },
     {
       name: 'Linkedin',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/juliodeveloper',
+      url: 'https://codepen.io/jhrdeveloper',
     },
   ],
 

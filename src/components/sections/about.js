@@ -143,9 +143,9 @@ const About = () => {
 
             <p>
             Avance rápido hasta hoy, y tuve el privilegio de trabajar en un{' '}
-              <a href="">estudio de desarrolladores web</a> dirigido por estudiantes.{' '}
+              <a href="#">estudio de desarrolladores web</a> dirigido por estudiantes.{' '}
               Mi enfoque principal en estos días es crear productos asequibles y experiencias digitales 
-              en <a href="">JulleSociety</a> para una variedad de clientes.
+              en <a href="https://www.instagram.com/jullesociety/">JulleSociety</a> para una variedad de clientes.
             </p>
 
             <p>Aquí hay algunas Lenguajes, Frameworks y Librerías con las que he estado trabajando recientemente:</p>

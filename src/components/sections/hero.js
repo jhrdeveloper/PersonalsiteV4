@@ -67,7 +67,7 @@ const Hero = () => {
       <p>
       Soy estudiante de ingeniería de software, especializado en construir (y ocasionalmente diseñar) experiencias digitales. 
       Actualmente, estoy enfocado en construir productos asequibles y centrados en los requerimentos de los clientes en {' '}
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://www.instagram.com/jullesociety/" target="_blank" rel="noreferrer">
           JulleSociety
         </a>
         .
@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href=""
+      href="/#contact"
       target="_blank"
       rel="noreferrer">
       ¡Contáctame!
