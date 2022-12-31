@@ -4,6 +4,7 @@ title: 'Build a Spotify Connected App'
 cover: './cardSection.png'
 github: 'https://github.com/jhrdeveloper/CardsectionV3'
 external: 'https://jhrdeveloper.github.io/CardsectionV3/'
+cta: 'https://jhrdeveloper.github.io/CardsectionV3/'
 tech:
   - CSS
   - HTML
