@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Card Section'
 cover: './cardSection.png'
 github: 'https://github.com/jhrdeveloper/CardsectionV3'
 external: 'https://jhrdeveloper.github.io/CardsectionV3/'
