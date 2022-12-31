@@ -1,7 +1,7 @@
 ---
 date: '2022-01-09'
-title: 'Estudiante'
-company: 'Desarrollo Web'
+title: 'Web'
+company: 'Desarrollo'
 location: 'Lima, PE'
 range: 'Octubre - Enero 2022'
 url: 'https://drive.google.com/file/d/1qW9Q23Rg1fbjDw9jubPWXrt0WcuzYMO6/view'

@@ -1,7 +1,7 @@
 ---
 date: '2022-08-16'
-title: 'Estudiante'
-company: 'Ingeniería de Software'
+title: 'Software'
+company: 'Ingeniería'
 location: 'Lima, PE'
 range: 'Agosto 2022 - Presente'
 url: 'https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-software'
