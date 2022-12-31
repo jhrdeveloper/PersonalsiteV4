@@ -267,7 +267,7 @@ const Projects = () => {
     <StyledProjectsSection>
       <h2 ref={revealTitle}>Otros proyectos destacados</h2>
 
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
+      <Link className="inline-link archive-link" to="#" ref={revealArchiveLink}>
         ver proyetos archivados
       </Link>
 
